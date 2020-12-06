@@ -8,7 +8,7 @@
     background-color: #0b1a5c;
     display: flex;
     flex-direction: column;
-    font-size: 5rem;
+    font-size: 3.8rem;
     font-family: 'Francois One', sans-serif;
     font-weight: 400;
     letter-spacing: .2rem;
@@ -48,7 +48,7 @@
     font-family: 'Francois One', sans-serif;
     display: flex;
     flex-direction: column;
-    font-size: 4rem;
+    font-size: 3.4rem;
     letter-spacing: .2rem;
     margin-top:30px;
     margin-bottom:40px;
