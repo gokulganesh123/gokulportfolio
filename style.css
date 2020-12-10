@@ -149,6 +149,7 @@
     padding:5px;
     text-decoration: none;
     color:black;
+    text-shadow:5px 5px 5px #9b967a;
 
 }
 .links a .fa-youtube:hover{
