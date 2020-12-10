@@ -16,7 +16,6 @@
     word-spacing: .4rem;
     color:#99ba09;
 }
-
 .intro{
     background-image: url(pics/cosmos.jpg);
     background-size: cover;
@@ -40,9 +39,9 @@
 .typing::after{
     content:"";
     position: absolute;
-    top:9px;
+    top:6px;
     width:1px;
-    height:7%;
+    height:10%;
     border-right:3px solid white;
     animation:blink 0.8s infinite ease;
 }
@@ -150,6 +149,7 @@
     padding:5px;
     text-decoration: none;
     color:black;
+
 }
 .links a .fa-youtube:hover{
     color:#ad1f1f;
